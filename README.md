@@ -6,7 +6,7 @@ The program expects a Puzzles.txt file to contain all unsolved puzzles. An examp
 3\
 1 2 X\
 6 3 8\
-7 5 4\
+7 5 4
 
 Where the leading 3 tells the program it is a 3x3 puzzle, the following lines are the rows of values where 'X' represents the blank space.
 
