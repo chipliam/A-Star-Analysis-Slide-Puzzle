@@ -3,10 +3,10 @@ This is an Analysis of A-Star searching algorithms using different heuristics as
 
 The program expects a Puzzles.txt file to contain all unsolved puzzles. An example is:
 
-3
-1 2 X
-6 3 8
-7 5 4
+3\
+1 2 X\
+6 3 8\
+7 5 4\
 
 Where the leading 3 tells the program it is a 3x3 puzzle, the following lines are the rows of values where 'X' represents the blank space.
 
